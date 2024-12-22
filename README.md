@@ -18,7 +18,9 @@ First, you must have the following things installed:
     - QT 6
     - ant
 
-To build, simply run `ant`.
+Then, edit the build.properties files to point to the places where you have installed Qt.
+
+Then, simply run `ant`. The output will be in the "output" directory.
 
 ## License
 
